@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/training.dir/src/training.cc.o  -o training -rdynamic 

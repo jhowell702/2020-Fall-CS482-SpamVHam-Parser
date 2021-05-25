@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jhowell/Downloads/2-spamhamspam/src/training.cc
+sstream
+-
+cstring
+-
+iostream
+-
+fstream
+-
+unordered_map
+-
+algorithm
+-
+stdio.h
+-
+

@@ -1,0 +1,4 @@
+/home/jhowell/Downloads/2-spamhamspam/CMakeFiles/edit_cache.dir
+/home/jhowell/Downloads/2-spamhamspam/CMakeFiles/rebuild_cache.dir
+/home/jhowell/Downloads/2-spamhamspam/CMakeFiles/training.dir
+/home/jhowell/Downloads/2-spamhamspam/CMakeFiles/classify.dir
